@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+logs/token_tracker.db
+logs/*.log
+node_modules/
+.venv/
+*.egg-info/
+dist/
+build/
